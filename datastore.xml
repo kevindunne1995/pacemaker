@@ -1,0 +1,39 @@
+<object-stream>
+  <java.util.HashMap_-Values>
+    <outer-class>
+      <entry>
+        <long>1</long>
+        <models.User>
+          <id>1</id>
+          <firstName>Bart</firstName>
+          <lastName>Simpson</lastName>
+          <email>bart@simpson.com</email>
+          <password>secret</password>
+          <activities/>
+        </models.User>
+      </entry>
+      <entry>
+        <long>3</long>
+        <models.User>
+          <id>3</id>
+          <firstName>Lisa</firstName>
+          <lastName>Simpson</lastName>
+          <email> lisa@simpson.com</email>
+          <password>secret</password>
+          <activities/>
+        </models.User>
+      </entry>
+      <entry>
+        <long>4</long>
+        <models.User>
+          <id>4</id>
+          <firstName>Kev</firstName>
+          <lastName>Dunne</lastName>
+          <email>kevin@aol.com</email>
+          <password>secret</password>
+          <activities/>
+        </models.User>
+      </entry>
+    </outer-class>
+  </java.util.HashMap_-Values>
+</object-stream>
