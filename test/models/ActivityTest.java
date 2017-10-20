@@ -20,4 +20,7 @@ public class ActivityTest
   {
     assertEquals ("Activity{" + test.id + ", walk, fridge, 0.001, []}", test.toString());
   }
+  
+  
+  
 }
